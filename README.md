@@ -1,5 +1,4 @@
-# Demo
-![React Basic Starter](http://i.imgur.com/Gu7lMLU.png)
+# Entei
 
 # React Basic Starter
 * Node 6.0.0v
